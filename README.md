@@ -91,6 +91,13 @@ Observe that each `χ_w()` function multiplies the ith variable logical-and'ed w
 Finally, observe that `f^(x_1,...,x_k)` is multi-linear with max degree `k`.
 By multi-linear, we mean that `f^` has degree 1 when viewed a polynomial of a single independent variable `x_j` for some `1<=j<=k`.
 
+## ZK Proof Techniques
+
+gkr         fixed
+circom r1cs arbitrary
+air         algebraic intermediate representation - uses iops
+iop         lower-level
+
 ## PAZK Exercises
 
 ### Ex 3.1
